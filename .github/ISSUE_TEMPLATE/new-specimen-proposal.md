@@ -19,3 +19,4 @@ What closed-form physical or mechanical motion should this structure perform in 
 
 ## Proposed Hotspot Landmarks
 List 3 to 5 key anatomical or structural parts to feature in the educational inspection overlay with brief descriptions.
+

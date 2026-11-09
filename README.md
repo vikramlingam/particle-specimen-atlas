@@ -1,5 +1,7 @@
 # Particle Specimen Atlas
 
+**Live Interactive Atlas:** [https://vikramlingam.github.io/particle-specimen-atlas/](https://vikramlingam.github.io/particle-specimen-atlas/)
+
 An open source 3D scientific visualization atlas and interactive educational tool built with WebGL, Three.js, React, and TypeScript. The application renders 35 complex anatomical, biological, cosmological, physical, and engineering specimens at 100,000 points each, computed entirely procedurally in code with zero external 3D asset dependencies.
 
 Each specimen features closed-form physical mechanics evaluated in the GPU vertex shader at 60 frames per second, divergence-free 3D curl noise turbulence, and an educational inspection interface featuring projected 3D connector pins, dynamic SVG blueprint leader lines, and slide-out scientific specification cards.
